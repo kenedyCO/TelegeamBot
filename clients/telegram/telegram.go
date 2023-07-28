@@ -8,6 +8,8 @@ import (
 	"path"
 	"strconv"
 
+	"tgBot\lib\e"
+
 	"github.com/kenedyCO/tgBot/lib/e"
 )
 
